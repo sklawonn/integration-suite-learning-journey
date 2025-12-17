@@ -1,0 +1,108 @@
+Category;ProductId;DimensionWidth;WeightUnit;DimensionUnit;DimensionHeight;DimensionDepth;Weight;Name
+Computer system accessories;AD-1000;0.4600;KG;m;0.0300;0.3000;0.010;Flyer
+Notebooks;HT-1000;0.3200;KG;m;0.0300;0.1800;4.200;Notebook Basic 15
+Notebooks;HT-1001;0.2900;KG;m;0.0310;0.1700;4.500;Notebook Basic 17
+Notebooks;HT-1002;0.2800;KG;m;0.0250;0.1900;4.200;Notebook Basic 18
+Notebooks;HT-1003;0.3200;KG;m;0.0400;0.2100;4.200;Notebook Basic 19
+PDAs/Organizers;HT-1007;0.3200;KG;m;0.0300;0.2200;0.200;1UMTS PDA
+Notebooks;HT-1010;0.3300;KG;m;0.0300;0.2000;4.300;Notebook Professional 15
+Notebooks;HT-1011;0.3300;KG;m;0.0200;0.2300;4.100;Notebook Professional 17
+PDAs/Organizers;HT-1020;0.1000;KG;m;0.1700;0.0180;0.160;
+Easy Hand IIIPDAs/Organizers;HT-1021;0.1100;KG;m;0.1800;0.0170;0.180;
+Easy Hand VPDAs/Organizers;HT-1022;0.8400;KG;m;0.1400;0.0150;0.200;
+Easy Hand VIIPDAs/Organizers;HT-1023;0.8000;KG;m;0.1300;0.0160;0.800;
+Easy PowerFlat screens;HT-1030;0.3700;KG;m;0.3600;0.1200;18.000;
+Ergo ScreenFlat screens;HT-1031;0.4080;KG;m;0.4300;0.1900;22.000;
+Easy PixelFlat screens;HT-1032;0.4080;KG;m;0.4300;0.1900;21.000;
+Beam ScreenFlat screens;HT-1035;0.3900;KG;m;0.4100;0.2000;14.000;
+Flat Basic 15Flat screens;HT-1036;0.4500;KG;m;0.4600;0.2600;15.000;
+Flat FutureFlat screens;HT-1037;0.5450;KG;m;0.3910;0.2210;17.000;
+Flat X-largeLaser printers;HT-1040;0.5100;KG;m;0.3000;0.4600;32.000;
+Laser Professional EcoLaser printers;HT-1041;0.4800;KG;m;0.2600;0.4200;23.000;
+Laser BasicLaser printers;HT-1042;0.5300;KG;m;0.6500;0.5000;15.000;
+Laser AllroundInk jet printers;HT-1050;0.4500;KG;m;0.1800;0.3420;3.000;
+Deskjet Super ColorInk jet printers;HT-1051;0.4600;KG;m;0.2500;0.3200;1.900;
+Deskjet MobileInk jet printers;HT-1052;0.4100;KG;m;0.2800;0.4200;18.000;
+Deskjet Super HighspeedMultifunction printers;HT-1055;0.5500;KG;m;0.2900;0.4500;6.300;
+Multi PrintMultifunction printers;HT-1056;0.5100;KG;m;0.2200;0.4130;4.300;
+Multi ColorMice;HT-1060;0.0600;KG;m;0.0350;0.1450;0.090;
+Cordless MouseMice;HT-1061;0.0700;KG;m;0.0310;0.1500;0.090;
+Speed MouseMice;HT-1062;0.0710;KG;m;0.0400;0.1400;0.030;
+Track MouseKeyboards;HT-1063;0.5000;KG;m;0.0350;0.2100;2.100;
+Ergonomic KeyboardKeyboards;HT-1064;0.5200;KG;m;0.0300;0.2500;1.800;
+Internet KeyboardKeyboards;HT-1065;0.5140;KG;m;0.0400;0.2300;2.300;
+Media KeyboardMousepads;HT-1066;0.3000;G;m;0.0050;0.3000;80.000;
+MousepadMousepads;HT-1067;0.2800;G;m;0.0040;0.2200;150.000;
+Ergo MousepadMousepads;HT-1068;0.2400;G;m;0.0060;0.2400;150.000;
+Designer MousepadFlat screens;HT-1069;0.3200;G;m;0.2300;0.0020;170.000;
+Notebook LCD DisplayGraphic cards;HT-1070;0.1500;KG;m;0.0450;0.1800;0.010;
+Proctra XGraphic cards;HT-1071;0.1400;KG;m;0.0350;0.1750;0.012;
+Gladiator MXGraphic cards;HT-1072;0.1500;KG;m;0.0310;0.1680;0.013;
+Hurricane GXGraphic cards;HT-1073;0.1520;KG;m;0.0410;0.1720;0.010;
+PsimaxScanners;HT-1080;0.3400;KG;m;0.0500;0.4800;2.300;
+Photo ScanScanners;HT-1081;0.3100;KG;m;0.0700;0.4300;2.400;
+Power ScanScanners;HT-1082;0.3300;KG;m;0.1200;0.4100;3.200;
+Jet Scan ProfessionalScanners;HT-1083;0.3500;KG;m;0.1000;0.4000;3.200;
+Jet Scan ProfessionalMultifunction printers;HT-1085;0.4500;KG;m;0.2200;0.4200;23.200;
+CopymasterSpeakers;HT-1090;0.1200;KG;m;0.1600;0.1000;3.000;
+Surround SoundSpeakers;HT-1091;0.1300;KG;m;0.1750;0.1100;1.400;
+Blaster ExtremeSpeakers;HT-1092;0.1240;KG;m;0.1810;0.1040;2.100;
+Sound BoosterHeadsets;HT-1095;0.2400;G;m;0.2300;0.0190;187.000;
+Lovely Sound 5.1 WirelessHeadsets;HT-1096;0.2500;G;m;0.1900;0.0170;130.000;
+Lovely Sound 5.1Headsets;HT-1097;0.2130;G;m;0.1970;0.0240;60.000;
+Lovely Sound StereoSoftware;HT-1100;0.1500;KG;m;0.2100;0.0650;1.200;
+Smart OfficeSoftware;HT-1101;0.1400;KG;m;0.2400;0.0670;0.800;
+Smart DesignSoftware;HT-1102;0.1600;KG;m;0.2700;0.0600;0.800;
+Smart NetworkSoftware;HT-1103;0.1100;KG;m;0.2200;0.0340;0.800;
+Smart MultimediaSoftware;HT-1104;0.1000;KG;m;0.3000;0.0300;1.100;
+Smart GamesSoftware;HT-1105;0.1600;KG;m;0.2100;0.0400;0.700;
+Smart Internet AntivirusSoftware;HT-1106;0.1790;KG;m;0.2310;0.0420;0.900;
+Smart FirewallSoftware;HT-1107;0.1200;KG;m;0.1900;0.0150;0.500;
+Smart MoneyComputer system accessories;HT-1110;0.2000;KG;m;0.0430;0.0800;0.030;
+PC LockComputer system accessories;HT-1111;0.3100;KG;m;0.0700;0.0900;0.020;
+Notebook LockComputer system accessories;HT-1112;0.0900;KG;m;0.0130;0.0820;0.500;
+Web cam realityComputer system accessories;HT-1113;0.1800;KG;m;0.0090;0.2200;0.200;
+Screen cleanComputer system accessories;HT-1114;0.5100;KG;m;0.3500;0.1900;1.800;
+Leather bag professionalTelecommunication;HT-1115;0.1930;KG;m;0.1200;0.1800;1.300;
+Modem Hyper SpeedTelecommunication;HT-1116;0.1900;KG;m;0.1400;0.2100;0.300;
+ISDN directTelecommunication;HT-1117;0.1190;KG;m;0.1050;0.2410;0.400;
+ADSL progress T1Computer system accessories;HT-1118;0.0150;KG;m;0.0120;0.0870;0.015;
+USB Stick 1 GBComputer system accessories;HT-1119;0.0200;G;m;0.0390;0.0310;88.000;
+USB Stick 2 GBKeyboards;HT-1120;0.4500;KG;m;0.0320;0.1940;1.000;
+Keybord, english internationalFlat screens;HT-1137;0.5400;KG;m;0.3800;0.2200;18.000;
+Flat X-large IIFlat screens;HT-1138;0.5300;KG;m;0.4400;0.2000;4.200;
+Flat XLPCs;HT-1210;0.2800;KG;m;0.4300;0.3100;2.300;
+PC Power StationServers;HT-1500;0.3400;KG;m;0.2300;0.3500;18.000;
+Server BasicServers;HT-1501;0.2900;KG;m;0.2700;0.3000;25.000;
+Server ProfessionalServers;HT-1502;0.2200;KG;m;0.3700;0.2730;35.000;S
+erver Power ProPCs;HT-1600;0.2140;KG;m;0.3800;0.2900;4.800;
+Family PC BasicPCs;HT-1601;0.2500;KG;m;0.4020;0.3170;5.300;
+Family PC ProPCs;HT-1602;0.2650;KG;m;0.4700;0.3400;5.900;
+Gaming MonsterPCs;HT-1603;0.2700;KG;m;0.4200;0.2800;6.800;
+Gaming Monster ProPortable Players;HT-2000;0.2140;KG;m;0.2760;0.1900;0.790;
+7 inch Widescreen Portable DVD Player w MP3Portable Players;HT-2001;0.2400;KG;m;0.2900;0.1950;0.840;
+10 inch Portable DVD playerPortable Players;HT-2002;0.2100;KG;m;0.1400;0.1650;0.720;
+Portable DVD Player with 9 inch LCD MonitorComputer system accessories;HT-2025;0.6700;KG;m;0.2500;0.2300;0.650;
+CD/DVD case: 264 capacityComputer system accessories;HT-2026;0.2100;KG;m;0.1300;0.1020;0.200;
+Audio/Video Cable Kit - 12 ftComputer system accessories;HT-2027;0.0550;KG;m;0.0200;0.0200;0.150;
+Removable CD/DVD Laser LabelsBeamers;HT-6100;0.1800;KG;m;0.1200;0.1500;1.700;
+Beam Breaker B-1Beamers;HT-6101;0.3200;KG;m;0.1800;0.2100;2.000;
+Beam Breaker B-2Beamers;HT-6102;0.3040;KG;m;0.2300;0.2310;2.500;
+Beam Breaker B-3Portable Players;HT-6110;0.3700;KG;m;0.0600;0.2400;2.400;
+Play MoviePortable Players;HT-6111;0.3800;KG;m;0.0620;0.2600;3.100;
+Record MovieMP3-Players;HT-6120;0.0500;G;m;0.0600;0.0180;134.000;
+Basic Booster AMP3-Players;HT-6121;0.0510;G;m;0.0920;0.0140;134.000;
+Basic Booster BMP3-Players;HT-6122;0.0760;G;m;0.0840;0.0200;266.000;
+Power Pro Player 40MP3-Players;HT-6123;0.1300;G;m;0.1430;0.0180;267.000;
+Power Pro Player 80TV flat screens;HT-6130;0.7800;KG;m;0.5500;0.2210;2.600;
+Flat Watch HD32TV flat screens;HT-6131;0.9910;KG;m;0.6100;0.2600;2.200;
+Flat Watch HD37TV flat screens;HT-6132;12.800;KG;m;0.7910;0.2300;1.800;
+Flat Watch HD41PDAs/Organizers;HT-7000;0.0810;KG;m;0.1210;0.1300;0.500;
+CopperberryPDAs/Organizers;HT-7010;0.0700;KG;m;0.1300;0.1500;0.500;
+SilverberryPDAs/Organizers;HT-7020;0.0740;KG;m;0.1120;0.1620;0.500;
+GoldberryPDAs/Organizers;HT-7030;0.0860;KG;m;0.1040;0.1540;0.500;
+PlatinberryNotebooks;HT-8000;0.3100;KG;m;0.0310;0.1900;4.000;
+ITelO FlexTop I4000Notebooks;HT-8001;0.3200;KG;m;0.0340;0.2000;4.200;
+ITelO FlexTop I6300cNotebooks;HT-8002;0.3800;KG;m;0.0410;0.2100;3.500;
+ITelO FlexTop I9100Notebooks;HT-8003;0.4800;KG;m;0.0450;0.3100;3.800;
+ITelO FlexTop I9800

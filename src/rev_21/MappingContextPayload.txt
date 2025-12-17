@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:ProductHierarchy xmlns:ns0="http://demo.sap.com/mapping/context">
+    <MainCategory Name="Printers and Scanners">
+        <Category Name="Multifunction printers">
+            <Product>Multi Print</Product>
+            <Product>Multi Color</Product>
+        </Category>
+        <Category Name="Scanners">
+            <Product>Power Scan</Product>
+            <Product>Photo Scan</Product>
+        </Category>
+    </MainCategory>
+
+    <MainCategory Name="Computer systems">
+        <Category Name="Computer system accessories">
+            <Product>Notebook Lock</Product>
+            <Product>USB Stick 1 GB</Product>
+            <Product>USB Stick 2 GB</Product>
+            <Product>Web cam reality</Product>
+        </Category>
+        <Category Name="Notebooks">
+            <Product>Notebook Basic 15</Product>
+            <Product>Notebook Pro 15</Product>
+        </Category>
+        <Category Name="PCs">
+            <Product>Gaming Monster</Product>
+            <Product>Gaming Monster Pro</Product>
+        </Category>
+    </MainCategory>
+
+    <MainCategory Name="Computer components">
+        <Category Name="Graphic cards">
+            <Product>Hurricane GX</Product>
+            <Product>Gladiator MX</Product>
+        </Category>
+        <Category Name="Telecommunication">
+            <Product>Modem Hyper Speed</Product>
+            <Product>ADSL progress T1</Product>
+            <Product>ISDN direct</Product>
+        </Category>
+    </MainCategory>
+</ns0:ProductHierarchy>
